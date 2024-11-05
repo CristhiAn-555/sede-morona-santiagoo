@@ -17,5 +17,6 @@ public class Resta2 {
         int num2=10;
         System.out.println("la resta de dos numeros");
         System.out.println("el resultado: " + (num1 - num2));
+        System.out.println("bienvenido a la poli");
     }
 }
